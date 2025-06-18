@@ -1,6 +1,6 @@
 # stm32_sensor_drivers
-STM32 microcontroller sensor driver for I2C protocol and UART protocol
-(If sensor adaptation is required, please contact us at 531401335@qq.com)
+* STM32 microcontroller sensor driver for I2C protocol and UART protocol
+* (If sensor adaptation is required, please contact us at 531401335@qq.com)
 # Support Sensor models:
   ### Temperature and humidity sensor
   * sht40(i2c), bmp280(i2c)
